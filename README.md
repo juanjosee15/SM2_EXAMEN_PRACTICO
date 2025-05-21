@@ -62,7 +62,9 @@ Permite a los usuarios solicitar el registro para poder acceder a la plataforma
 ![image](https://github.com/user-attachments/assets/387d341f-227a-46e8-8e97-8b249dd08dbb)
 ![image](https://github.com/user-attachments/assets/57fd7a28-eeea-46e8-ab42-9d19f4d41c94)
 
-### 9.  Cagara lo que ve el usuario :
+### 9.  una vez que pone los datos podra ingresar a la app:
+![image](https://github.com/user-attachments/assets/e2f18691-cacd-4858-9ad8-ebc9579a810f)
+
 
 
 
