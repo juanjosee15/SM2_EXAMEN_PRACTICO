@@ -72,6 +72,7 @@ Permite a los usarios poder crear su ticket
 ![image](https://github.com/user-attachments/assets/ad16e616-84fc-476c-a29e-5f2f959c6d03)
 
 ##10. Le damos crear ticket y nos botara una alerta de que ya se creo:
+
 ![image](https://github.com/user-attachments/assets/1b123c38-5142-4235-aeae-adc1ce1468a0)
 
 
