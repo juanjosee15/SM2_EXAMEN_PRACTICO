@@ -6,12 +6,15 @@ Este proyecto tiene como objetivo principal brindar una solución para la gesti�
 
 ---
 
+
 ## ✅ Historia de Usuario Implementada
 
 ### 🧾 Registrarse
+### 🧾 Crear ticket
 
 **Descripción funcional:**  
 Permite a los usuarios solicitar el registro para poder acceder a la plataforma 
+Permite a los usarios poder crear su ticket
 
 
 **Prioridad:** Low  
@@ -64,6 +67,16 @@ Permite a los usuarios solicitar el registro para poder acceder a la plataforma
 
 ### 9.  una vez que pone los datos podra ingresar a la app:
 ![image](https://github.com/user-attachments/assets/e2f18691-cacd-4858-9ad8-ebc9579a810f)
+
+### 9.  Damos en crear ticket y llenamos los datos :
+![image](https://github.com/user-attachments/assets/ad16e616-84fc-476c-a29e-5f2f959c6d03)
+
+##10. Le damos crear ticket y nos botara una alerta de que ya se creo:
+![image](https://github.com/user-attachments/assets/1b123c38-5142-4235-aeae-adc1ce1468a0)
+
+
+
+
 
 
 
