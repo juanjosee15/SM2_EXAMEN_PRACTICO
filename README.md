@@ -50,7 +50,7 @@ Permite a los usuarios solicitar el registro para poder acceder a la plataforma
 ### 4. Clonar el repositorio del proyecto
 
 - Abre una terminal y ejecuta:
-  git clone https://github.com/tu-usuario/Proyecto-Tickets-Moviles_II.git
+  git clone https://github.com/juanjosee15/SM2_EXAMEN_PRACTICO.git
 
 ### 5.  En la terminal (dentro del proyecto), ejecuta:
   flutter pub get
